@@ -1,16 +1,15 @@
-## Hi there 👋
+Documenting my journey as I study and do AI/ML and the stochastic side of Mathematics.
 
-<!--
-**bisrat-worku/bisrat-worku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**What I'm using right now**
+AI/ML: Following Andrew Ng’s Machine Learning and Deep Learning Specializations.
+Math: Following Joe Blitzstein’s Stat 110 course on youtube + Introduction to probabilty book by Joe Blitzstein.
 
-Here are some ideas to get you started:
+**What I’m doing**
+Building ML Projects: Taking what I learn from Andrew Ng and building end-to-end projects to see how models handle real data.
+Simulating Famous Stories: I'm taking famous problems and stories in the Stat 110 course and simulate to verify the math.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I plan**
+Long term:
+Model Stochastic Events: Moving from basic probability into Statistical Inference and Stochastic Processes, the goal is to move from existing stories to modeling complex, random events of my own selection from scratch.
+Long-Long term: 
+Study and Do applications of SDEs in the generative AI field.
