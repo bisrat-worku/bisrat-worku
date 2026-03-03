@@ -9,7 +9,11 @@ Building ML Projects: Taking what I learn from Andrew Ng and building end-to-end
 Simulating Famous Stories: I'm taking famous problems and stories in the Stat 110 course and simulate to verify the math.
 
 **What I plan**
+
 Long term:
-Model Stochastic Events: Moving from basic probability into Statistical Inference and Stochastic Processes, the goal is to move from existing stories to modeling complex, random events of my own selection from scratch.
+
+Moving from basic probability to Statistical Inference and Stochastic Processes, the goal is to modele complex, random events of my own selection from scratch.
+
 Long-Long term: 
+
 Study and Do applications of SDEs in the generative AI field.
